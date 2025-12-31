@@ -5,6 +5,15 @@
     <link>https://micv1vm-wq.github.io/tvvd-medium-feed/</link>
     <description>Автоматическая публикация статей для Medium</description>
     <language>ru</language>
+    <item>
+      <title>Тестовая статья для Medium</title>
+      <link>https://micv1vm-wq.github.io/tvvd-medium-feed/posts/test-article.html</link>
+      <guid>test-article-001</guid>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
+      <description>
+        Это тестовая статья для проверки автоматической публикации через RSS.
+      </description>
+    </item>
 
   </channel>
 </rss>
